@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Test Assignment1.py",
+      "setup": "",
+      "run": "python3 assignment1.py",
+      "input": "",
+      "output": "This program was not working\r\nbut now it is working!",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Test assignment2.py",
+      "setup": "",
+      "run": "python3 assignment2.py",
+      "input": "",
+      "output": "This is assignment #2\r\nit is not working, but we will make it work",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Test Assign3",
+      "setup": "",
+      "run": "python3 assignment3.py",
+      "input": "",
+      "output": "Comment is now fixed\r\nSo the program works",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Test assign4",
+      "setup": "",
+      "run": "python3 assignment4.py",
+      "input": "",
+      "output": "This program was missing something from the print statement",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Test Assign5",
+      "setup": "",
+      "run": "python3 assignment5.py",
+      "input": "",
+      "output": "In order to show quotes like \", we need to use escape characters",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    }
+  ]
+}
